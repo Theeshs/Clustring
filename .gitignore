@@ -1,4 +1,4 @@
 .idea
 venv
-K-Means/Python
-
+K-Means/Python/k_means_clustering.py
+K-Means/Python/k_means_clustering.ipynb
